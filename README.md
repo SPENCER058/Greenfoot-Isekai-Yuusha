@@ -1,2 +1,2 @@
 # Greenfoot-Isekai-Yuusha
-Mid Semester Project Using Greenfoot
+UNS Algorithm and Programming Mid Semester Project Using Greenfoot
